@@ -32,4 +32,4 @@ Welcome to the Git Practice repository! This space is dedicated to honing your s
 
 9. **Create a Pull Request to this Repository and Request Your Mentor's Review**
 
-10. If you want to practice more [learngitbranching](https://learngitbranching.js.org/) is an amazing resource
+10. **If you wish to practice more [learngitbranching](https://learngitbranching.js.org/) is an amazing resource**
