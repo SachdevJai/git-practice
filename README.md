@@ -18,7 +18,7 @@ This repository is for the purpose of practising git concepts like branching and
   - Push these changes to this branch
 
 - **Switch to the main branch**
-  - Add a short note about your favourite pokemon :D and why its the best (or any other character)
+  - Add a short note about your favourite pokemon :D and why its the best (or any other character) (in that same file btw)
   - Push these changes to main
 
 - **Merge the branch details to the main branch**
